@@ -1,0 +1,15 @@
+Create local project
+make dir
+create whatever file
+	git add.
+	git commit -m ""
+	git status
+	
+link remote repo to local project 
+	1. Go to github site
+	2. Create repo
+	3. copy origin link
+	4. go to local dir and 'git remote add origin <link>'
+	5. share changes to remote repo 
+		5.1 git push <url> <branch>
+		 e.g git push origin master
